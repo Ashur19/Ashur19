@@ -18,10 +18,8 @@
 <p align="left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="git" width="40" height="40"/> </a></p>
 
 
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashur19&show_icons=true&locale=en&layout=compact" alt="Jordy Iglesias Stats" /></p> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashur19&show_icons=true&locale=en&layout=compact" alt="Jordy Iglesias Stats" /></p> 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ashur19&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
