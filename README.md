@@ -19,7 +19,11 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashur19&show_icons=true&locale=en&layout=compact" alt="Jordy Iglesias Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashur19&show_icons=true&locale=en&layout=compact" alt="Jordy Iglesias Stats" /></p> 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ashur19&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
 
 
 
